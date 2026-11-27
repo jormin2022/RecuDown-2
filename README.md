@@ -37,7 +37,7 @@ This project is an original user interface built from scratch. It uses the open-
 
 ## Compiling from Source (Developers)
 
-If you want to modify the code and compile it yourself, follow these steps:
+If you wish to modify the code, implement improvements, and compile your own version, follow these instructions:
 
 1. Install Python 3.10 or higher.
 - **Option A (CMD - Easiest and fastest):** Open CMD **as Administrator** (Right-click -> Run as administrator) and run: `winget install Python.Python.3.10`
