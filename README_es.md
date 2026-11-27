@@ -35,7 +35,7 @@ Este proyecto consiste en una interfaz de usuario original desarrollada desde ce
 
 ## Compilación desde el código fuente (para desarrolladores)
 
-Si deseas modificar el código y compilarlo tú mismo, sigue estos pasos:
+Si deseas modificar el código, implementar mejoras y compilar tu propia versión, sigue estas instrucciones:
 
 1. Instala Python 3.10 o superior.
 - **Opción A (CMD - Más sencillo y rápido):** Abre el CMD **como Administrador** (Clic derecho -> Ejecutar como administrador) y ejecuta: `winget install Python.Python.3.10`
