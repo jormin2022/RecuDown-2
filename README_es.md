@@ -17,7 +17,8 @@ Este proyecto consiste en una interfaz de usuario original desarrollada desde ce
 - **Conversión automática de vídeos:** Si tienes instalado FFmpeg en tu sistema, la aplicación convertirá automáticamente los archivos `.ts` descargados a formato MP4 o MKV sin pérdida de calidad.
 - **Soporte multiidioma:** Interfaz totalmente traducida al inglés, español, portugués y ruso.
 - **Opciones de renombrado por fecha:** Organiza tus archivos automáticamente utilizando el formato Año-Mes-Día (AAAA-MM-DD), Día-Mes-Año (DD-MM-AAAA) o conservando el nombre original del vídeo.
-- **Copias de seguridad automáticas:** Guarda un historial de tus últimas 10 configuraciones de descarga en un archivo `backup.txt`, para que nunca pierdas tu progreso. - **Interfaz personalizable:** Ventana sin bordes con opción de «siempre visible» (Always on Top), selector de cantidad de URL y sonidos de confirmación para clics y descargas completadas.
+- **Copias de seguridad automáticas:** Guarda un historial de tus últimas 10 configuraciones de descarga en un archivo `backup.txt`, para que nunca pierdas tu progreso.
+- - **Interfaz personalizable:** Ventana sin bordes con opción de «siempre visible» (Always on Top), selector de cantidad de URL y sonidos de confirmación para clics y descargas completadas.
 
 ## Requisitos y compatibilidad de navegadores
 
